@@ -1,0 +1,9 @@
+sitename: Роман Николаевич Шипиев
+tagline: Ruby, Rails, Redmine plugins
+
+production_url: http://roman.shipiev.me
+url: http://roman.shipiev.me
+
+safe: false
+auto: true
+baseurl: /
