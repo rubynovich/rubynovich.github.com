@@ -12,7 +12,7 @@ photo_url: http://img-fotki.yandex.ru/get/4810/37281331.8f/0_9549a_f57ab08f_M.jp
 h2. Знаю и умею
 
 |Языки программирования:| Ruby/Rails/Sinatra/Nonoc/Jekyll, HTML/HAML/Textile, Javascript/jQuery.|
-|Программы:|ОС GNU/Linux Ubuntu & gedit, MacOSX & textmate, git/hg|
+|Программы:|GNU/Linux Ubuntu & (gedit || RubyMine), MacOSX & textmate, svn/git/hg|
 |Иностранные языки:|Enslish (technical), Esperanto (komencanto)|
 
 h2. Учился
