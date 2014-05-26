@@ -1,26 +1,6 @@
-production_url: http://roman.shipiev.pro
-url: http://roman.shipiev.pro
+production_url: http://roman.shipiev.me
+url: http://roman.shipiev.me
 
 safe: false
 auto: true
 baseurl: /
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "my-site"
-  -
-    scope:
-      path: "about"
-      type: "about"
-    values:
-      layout: "about"
-  -
-    scope:
-      path: "about/blog"
-      type: "post"
-    values:
-      layout: "meta-blog" # overrides previous default layout
-      author: "Dr. Hyde"
