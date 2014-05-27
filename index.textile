@@ -13,7 +13,7 @@ h2. Знаю и умею
 
 |Языки программирования:| Ruby/Rails/Sinatra/Nonoc/Jekyll, HTML/HAML/Textile, Javascript/jQuery.|
 |Программы:|GNU/Linux Ubuntu & (gedit or RubyMine), MacOSX & textmate, svn/git/hg|
-|Иностранные языки:|Enslish (technical), Esperanto (komencanto)|
+|Иностранные языки:|English (technical), Esperanto (komencanto)|
 
 h2. Учился
 
