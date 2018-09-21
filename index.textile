@@ -69,7 +69,7 @@ h3. Контакты
 
 p(view). 
 !<(icon email)http://mail.yandex.ru/neo2/favicon.ico! "roman@shipiev.pro":mailto:roman@shipiev.pro
-!<(icon skype)http://www.skypeassets.com/i/images/icons/favicon.ico! "roman@shipiev.pro":skype:roman@shipiev.pro
+!<(icon skype)http://www.skypeassets.com/i/images/icons/favicon.ico! roman@shipiev.pro
 
 h3. Социальные сети
 
