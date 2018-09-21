@@ -69,11 +69,10 @@ h3. Контакты
 
 p(view). 
 !<(icon email)http://mail.yandex.ru/neo2/favicon.ico! "roman@shipiev.pro":mailto:roman@shipiev.pro
-!<(icon skype)http://www.skypeassets.com/i/images/icons/favicon.ico! "rubynovich":skype:rubynovich
+!<(icon skype)http://www.skypeassets.com/i/images/icons/favicon.ico! "roman@shipiev.pro":skype:roman@shipiev.pro
 
 h3. Социальные сети
 
 p(view). 
 !<(icon github)https://github.com/favicon.ico! "rubynovich":https://github.com/rubynovich
-!<(icon juick)http://static.juick.com/favicon.png! "@rb":http://juick.com/rb
-!<(icon vk)http://vk.com/images/faviconnew.ico! "rubynovich":http://vk.com/rubynovich
+!<(icon github)https://github.com/favicon.ico! "rubynovich":https://github.com/shipiev
