@@ -52,5 +52,3 @@
 + [twitter.com/rubynovich](//twitter.com/rubynovich)
 + [github.com/rubynovich](//github.com/rubynovich)
 + [github.com/shipiev](//github.com/shipiev)
-
-<script>$(document).on('ready', '.markdown-body h1 a', function(){ $('.markdown-body h1 a').closest('h1')}).html('');</script>
