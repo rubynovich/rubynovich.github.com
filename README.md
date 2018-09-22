@@ -16,7 +16,6 @@ Ruby on Rails 3/4/5, Redmine plugins developer, Trailbalzer
 ## Профессиональный путь (CV)
 
 
-
 ## Опыт работы свыше 15 лет
 
 *связанный с программированием (более 7 лет)*
