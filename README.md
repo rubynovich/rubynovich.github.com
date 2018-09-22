@@ -11,10 +11,12 @@
 Операционные системы: GNU/Linux Ubuntu\
 Иностранные языки: English (technical), Esperanto (komencanto)
 
-First Header  | Second Header
+## Образование
+
+Год окончания  | Наименование учебного заведения
 ------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+2005  | **Московский Государственный Индустриальный Университет (МГИУ)**\Прикладная математика и техническая физика
+1999  | **Электронно-технологический технику**\Програмирование ВТ и АС
 
 # [github.com/rubynovich](//github.com/rubynovich)
 # [github.com/shipiev](//github.com/shipiev)
