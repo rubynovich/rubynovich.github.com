@@ -8,6 +8,14 @@
 
 [roman@shipiev.pro](roman@shipiev.pro)
 
+## Знаю и умею
+
+:-- | :--:
+|Языки программирования:| Ruby |
+|Операционные системы:| GNU/Linux Ubuntu |
+|Иностранные языки:|English (technical), Esperanto (komencanto)|
+
+
 First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell
