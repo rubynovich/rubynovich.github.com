@@ -11,7 +11,9 @@
 
 ## Знаю и умею
 
-Ruby on Rails 3/4/5, Redmine plugins developer, Trailbalzer
+* Ruby on Rails 3/4/5
+* Redmine plugins developer
+* Trailbalzer
 
 ## Профессиональный путь (CV)
 
