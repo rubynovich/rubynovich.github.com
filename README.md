@@ -1,17 +1,17 @@
 # Шипиев Роман Николаевич (Rubynovich)
 
-Мужчина, 38 лет, родился 16 июля 1980\
-высшее, женат, дети есть\
+Мужчина, 38 лет, родился 16 июля 1980<br>
+высшее, женат, дети есть<br>
 Зеленоград, готов к переезду в Москву
 
 ## Способы связи
 
-**Email, Skype**: [roman@shipiev.pro](roman@shipiev.pro)\
+**Email, Skype**: [roman@shipiev.pro](roman@shipiev.pro)<br>
 **Telegram**: rubynovich
 
 ## Знаю и умею
 
-Ruby on Rails 3/4/5, Redmine (разработка модулей), Trailbalzer
+Ruby on Rails 3/4/5, Redmine plugins developer, Trailbalzer
 
 ## Профессиональный путь (CV)
 
