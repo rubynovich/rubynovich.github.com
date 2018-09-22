@@ -7,9 +7,7 @@
 
 ## Знаю и умею
 
-Языки программирования: Ruby\
-Операционные системы: GNU/Linux Ubuntu\
-Иностранные языки: English (technical), Esperanto (komencanto)
+Ruby on Rails 3/4/5
 
 ## Опыт работы свыше 15 лет
 
