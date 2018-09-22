@@ -10,12 +10,9 @@
 
 ## Знаю и умею
 
-
---- | ---
-|Языки программирования:| Ruby |
-|Операционные системы:| GNU/Linux Ubuntu |
-|Иностранные языки:|English (technical), Esperanto (komencanto)|
-
+Языки программирования: Ruby\
+Операционные системы: GNU/Linux Ubuntu\
+Иностранные языки: English (technical), Esperanto (komencanto)
 
 First Header  | Second Header
 ------------- | -------------
