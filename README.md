@@ -7,7 +7,7 @@
 
 ## Знаю и умею
 
-Ruby on Rails 3/4/5, Redmine
+Ruby on Rails 3/4/5, Redmine (разработка модулей), Trailbalzer
 
 ## Опыт работы свыше 15 лет
 
