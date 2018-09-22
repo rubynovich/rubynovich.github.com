@@ -7,7 +7,7 @@
 
 ## Знаю и умею
 
-Ruby on Rails 3/4/5
+Ruby on Rails 3/4/5, Redmine
 
 ## Опыт работы свыше 15 лет
 
