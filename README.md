@@ -10,6 +10,8 @@
 
 ## Знаю и умею
 
+aSDAS|ASDASD
+--- | ---
 |Языки программирования:| Ruby |
 |Операционные системы:| GNU/Linux Ubuntu |
 |Иностранные языки:|English (technical), Esperanto (komencanto)|
