@@ -4,7 +4,7 @@
 высшее, женат, дети есть\
 Зеленоград, готов к переезду в Москву\
 [roman@shipiev.pro](roman@shipiev.pro)\
-<a href="tg://resolve?domain=<USERNAME>">Telegram</a>
+<a href="tg://resolve?domain=rubynovich">Telegram</a>
 
 ## Знаю и умею
 
