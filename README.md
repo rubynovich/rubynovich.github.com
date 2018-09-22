@@ -3,8 +3,8 @@
 Мужчина, 38 лет, родился 16 июля 1980\
 высшее, женат, дети есть\
 Зеленоград, готов к переезду в Москву\
-[roman@shipiev.pro](roman@shipiev.pro)\
-<a href="tg://resolve?domain=rubynovich">Telegram</a>
+**Email, Skype**: [roman@shipiev.pro](roman@shipiev.pro)\
+**Telegram**: rubynovich
 
 ## Знаю и умею
 
