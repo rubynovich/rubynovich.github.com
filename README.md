@@ -46,5 +46,8 @@ Ruby on Rails 3/4/5, Redmine (разработка модулей), Trailbalzer
 **Разрешение на работу:** Россия<br>
 **Желательное время в пути до работы:** Не имеет значения
 
+## Социальные сети
+
++ [twitter.com/rubynovich](//twitter.com/rubynovich)
 + [github.com/rubynovich](//github.com/rubynovich)
 + [github.com/shipiev](//github.com/shipiev)
